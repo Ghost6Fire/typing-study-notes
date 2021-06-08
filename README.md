@@ -36,8 +36,6 @@ Bug.
     
 Cookies
     The source of all that is good, chocolatey, and sugary in the world… Kidding. (Sort of.) This is the data sent by an Internet server to a browser. Each time the browser accesses the same server, it sends the data back as a means of tracking how (and how often) it accesses the server. This is why your home computer always knows your Netflix login.
-    Cookies: Not just for Cookie Monster. @WholeWhale's 47 terms to know when working with a developer.
-    Click To Tweet
     
 Crawl
     When search engines send bots to your website in order to gather intel on pages that exist and don’t exist in order to determine what content should be displayed or removed on search engines.
