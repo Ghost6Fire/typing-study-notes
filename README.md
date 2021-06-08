@@ -56,7 +56,7 @@ CTA
     “Development Operations.” System of working that helps to keep development, IT operations, and quality assurance departments on the same page to make for better end-products and collaborations.
     
 Domain
-    The address for a website as entered into the browser (ours is www.wholewhale.com!). If your server is the land your website is built on and the hosting is its house, the domain is its mailing address.
+    The address for a website as entered into the browser.
 
    Favicon
     Short for “favorite icon,” it’s the icon that appears in your website’s browser tab. (Ours is our mascot, Moby.)
@@ -107,10 +107,10 @@ Registrar
     Company used to register domains (e.g., GoDaddy, Hover, Network Solutions).
 
     Resolution
-    Essentially how large an image or graphic can be rendered on a display. Oftentimes developers talk about the resolution of photos as photos at a low resolution won’t display as well if they need to be sized for the full width of a desktop screen. Resolutions are measured in pixels (e.g., the resolution of a MacBook Air screen is 1440 x 900 pixels).
+    Essentially how large an image or graphic can be rendered on a display.
 
     Responsive Design
-    Websites that accommodate the screen on which they’re being viewed. This became a huge trend in website design when browsing on mobile and tablet devices became more popular, which has led many developers to opt for a “mobile-first” approach — optimizing a website design for phone and tablet use first and then making sure it looks good on a laptop/desktop.
+    Websites that accommodate the screen on which they’re being viewed. i.e. mobile-first” approac
     
     SAAS Platforms
     “Software As A Service.” The most basic of cloud platforms; allows users to share files and collaborate on projects through their browser. Some SAAS platforms include Google Drive and Dropbox. Other cloud options are Platform as a Service (PAAS; Facebook, Twitter, etc.) and Infrastructure as a Service (IAAS; Amazon Web Services, Microsoft Azure).
@@ -123,9 +123,7 @@ Registrar
 
     Slider
     Carousel of images usually featured on the homepage of a site that rotate, highlighting different photos, links, and content.
-    
-SOS
-    An amazing song by ABBA that factors into at least one Whaler’s work playlist. Yes, this is a joke, but if you’ve made it this far down the page and through so many acronyms already, you deserve a little ABBA.
+   
     
     UI
     “User Interface.” The visual elements that go into a website or app. This is the form to UX’s function.
@@ -144,10 +142,10 @@ UX
 
 
 Asynchronous JavaScript and XML (AJAX)
-A programming method used by developers to request dynamic asynchronous page content through JavaScript.
+used by developers to request dynamic asynchronous page content through JS.
 
 Chrome User Experience Report (CrUX)
-A public data set released by Google Developers to demonstrate how real Chrome users experience websites “in the wild”. You can access this data set from https://developers.google.com/web/tools/chrome-user-experience-report/.
+A public data set released by Google Developers to demonstrate how real Chrome users experience websites “in the wild”. You can access this data set from 
 
 Client-side Rendering (CSR)
 The execution of JavaScript and supplied data within a web browser, resulting in an interactive DOM for browsing.
@@ -172,7 +170,7 @@ Dynamic Rendering
 Switching content serving at the server/edge-level based on user-agent strings, to ensure bots receive rendered HTML not empty SPA containers.
 
 ECMAScript 6, ES6, ECMA Script 2015
-Version 6 of the JavaScript programming language, which since August 2018 has been supported by Google’s WRS.
+Version 6 of the JS programming language
 
 First Contentful Paint (FCP)
 The point when the browser renders the first bit of content from the DOM, which may be any visible element.
@@ -190,7 +188,7 @@ Hydration/Rehydration
 Hydration involves the process where a framework, such as Vue.js, obtains data from the server which is then populated in the browser’s interactive DOM. Hydration can be performed server-side under server side rendered setups. Rehydration happens where previously hydrated content served as static HTML from the server is then picked up and enhanced by a SPA to become interactive once more.
 
 Isomorphic JavaScript
-Also known as Universal JavaScript. This describes JavaScript web apps which run both on the client and the server.
+or "Universal JavaScript", JS web apps which run both on the client and the server.
 
 JAMStack
 A new web development architecture based on client-side JavaScript, APIs, and prebuilt Markup (J A M).
