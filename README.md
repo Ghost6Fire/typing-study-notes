@@ -1,4 +1,4 @@
-# typing-study-notes, Javascript and developer common terms, 
+# typing-study-notes, JS and developer common terms, 
 **Copy and Paste these notes into a typing program**
 
 
@@ -138,14 +138,14 @@ UX
     “What You See is What You Get.” A visual content editor within CMS that allows you to modify content in your website without needing to know HTML. If you’ve ever made text in your website bold just by highlighting and clicking “Bold,” you were using WYSIWYG.
 
 
-Asynchronous JavaScript and XML (AJAX)
+Asynchronous JS and XML (AJAX)
 used by developers to request dynamic asynchronous page content through JS.
 
 Chrome User Experience Report (CrUX)
 A public data set released by Google Developers to demonstrate how real Chrome users experience websites “in the wild”. You can access this data set from 
 
 Client-side Rendering (CSR)
-The execution of JavaScript and supplied data within a web browser, resulting in an interactive DOM for browsing.
+The execution of JS and supplied data within a web browser, resulting in an interactive DOM for browsing.
 
 Compression
 A method of reducing the overall size of a file. This can be through various methods which broadly speaking either reduces the file contents and then uses GZIP compression for transport.
@@ -179,27 +179,27 @@ Headless CMS
 A headless CMS is a content management system that is front-end agnostic, that means you can “bring your own” Single Page Application to render the content from the CMS via APIs.
 
 Hybrid Rendering
-The process of sending a selected amount of content, that you want to be indexed by search engine bots, as static HTML to the user and the search engine bot. From here, you can then run JavaScript to enhance the user experience and to reduce the resource needed from Googlebot to fully interpret your website.
+The process of sending a selected amount of content, that you want to be indexed by search engine bots, as static HTML to the user and the search engine bot. From here, you can then run JS to enhance the user experience and to reduce the resource needed from Googlebot to fully interpret your website.
 
 Hydration/Rehydration
 Hydration involves the process where a framework, such as Vue.js, obtains data from the server which is then populated in the browser’s interactive DOM. Hydration can be performed server-side under server side rendered setups. Rehydration happens where previously hydrated content served as static HTML from the server is then picked up and enhanced by a SPA to become interactive once more.
 
-Isomorphic JavaScript
-or "Universal JavaScript", JS web apps which run both on the client and the server.
+Isomorphic JS
+or "Universal JS", JS web apps which run both on the client and the server.
 
 JAMStack
-A new web development architecture based on client-side JavaScript, APIs, and prebuilt Markup (J A M).
+A new web development architecture based on client-side JS, APIs, and prebuilt Markup (J A M).
 
-JavaScript (JS)
-JavaScript is a versatile programming language that can power server side and client side web applications.
+JS
+JS is a versatile programming language that can power server side and client side web applications.
 
-JavaScript Framework
-A JavaScript framework is an application framework written in JavaScript. It defines the entire application design, unlike a JavaScript library which offers functions to be called in code.
+JS Framework
+JS framework is an application framework written in JS. It defines the entire application design, unlike a JS library which offers functions to be called in code.
 
-JavaScript Library
+JS Library
 A collection of useful code which provides functions to be called by the application code.
 
-JavaScript Object Notation (JSON)
+JS Object Notation (JSON)
 A file standard consisting of key-value data pairs. Can be used to transmit arrays, strings, and serializable objects between systems. Due to popularity and portability, it also often replaces the XML file format in JSON communications.
 
 Loading Performance
@@ -224,16 +224,16 @@ Render
 The process of a web browser fetching data within a website’s code and turning this into an output of a viewable page. 
 
 Render Blocking Source
-As resources are loaded into the <head> of a document, they are by default usually render blocking. This means they prevent the rendering to the browser until their loading is complete. CSS and JavaScript files are by default render blocking. It’s important to fully optimise these files and where possible load the JavaScript files asynchronously to prevent this delay to the rendering.
+As resources are loaded into the <head> of a document, they are by default usually render blocking. This means they prevent the rendering to the browser until their loading is complete. CSS and JS files are by default render blocking. It’s important to fully optimise these files and where possible load the JS files asynchronously to prevent this delay to the rendering.
 
 Rendering Performance
 A performance optimisation practise which focuses on server-side technology to produce static HTML and optimised application code to serve to users and internet bots.
 
 Server-side Rendering (SSR)
-A catch-all definition of a number of methods to produce static HTML files from JavaScript application code on the server.
+A catch-all definition of a number of methods to produce static HTML files from JS application code on the server.
 
 Single Page Application (SPA)
-A SPA is a modern dynamic web application programmed in JavaScript that runs within a browser. This process helps to serve an excellent UX with no page reloads and lack of excess waiting time. Instead of full page reloads between page views, like an MPA, a Single Page Application dynamically includes changing sections of a page when requested, leading to a much-improved user experience.
+A SPA is a modern dynamic web application programmed in JS that runs within a browser. This process helps to serve an excellent UX with no page reloads and lack of excess waiting time. Instead of full page reloads between page views, like an MPA, a Single Page Application dynamically includes changing sections of a page when requested, leading to a much-improved user experience.
 
 Static Site Generation
 This describes a type of website that is stored on the server as static HTML files, with no server-side processing. It can be built from a JAMStack web application but is stored in it’s “built” form. Once compiled into static files, these are usually then published to the server or content delivery network.
@@ -248,6 +248,6 @@ Universal Rendering
 The process of sending an application that has been fully rendered within the primary payload to the browser.
 
 Web Rendering Service (WRS)
-A headless browser than transforms HTML and JavaScript into something that can be displayed to a user or interpreted by an algorithm. The WRS comes to the site as a unique user would, with no cookies, permissions allowed to gain a holistic view of the website.
+A headless browser than transforms HTML and JS into something that can be displayed to a user or interpreted by an algorithm. The WRS comes to the site as a unique user would, with no cookies, permissions allowed to gain a holistic view of the website.
 
 
