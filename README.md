@@ -48,7 +48,6 @@ CSS.
 
 CTA
     “Call to Action.” The buttons on your website that drive certain conversions or goals such as donations, newsletter signups, or user registrations.
-    D
 
     DevOps
     “Development Operations.” System of working that helps to keep development, IT operations, and quality assurance departments on the same page to make for better end-products and collaborations.
