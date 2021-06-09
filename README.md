@@ -17,22 +17,23 @@ Attribute
 
 
 Browser
-    The program you use to access the Web — such as Chrome, Firefox, or Safari. When you experience an issue with a website, it’s best to send the browser type and version you’re using to your developer as oftentimes these issues are browser specific. You can figure this out easily thanks to WhatsMyBrowser.org.
+    The program you use to access the Web
     
-Bug.
+Bug
     An error or flaw in the website or app that keeps it from running as expected.
     
-    Cache.
-    The storage of certain elements to help with faster load times from repeat website visitors. Often developers will tell you to clear your browser’s cache if they make a change on the website that you can’t see — most likely your cache is holding onto an older version and hasn’t made room for the new one yet. (Kind of like that period of time between you moving to college and your parents converting your childhood bedroom into a home-office–slash–exercise-room.)
+Cache.
+    The storage of certain elements to help with faster load times from repeat website visitors
    
-   Classes
-    In CSS, an identifier for specifying exactly what you what to target with styling.
+Classes
+    in CSS, an identifier for specifying exactly what you what to target with styling.
     In other programming languages, classes are a bit more broadly used as the blueprint for creating something — similar to using the blueprint of an existing car to create a new type of car.
     
-    CMS
-    “Content Management System.” The program that you use to create and maintain your website’s content. These are usually designed for non-developers for ease-of-use. Our personal favorite at Whole Whale is WordPress.
-    Conversion.
-    The goals you have for RGS (really good stuff) happening on your website, such as donations, email signups, and downloads. If your user and your website were in a relationship, this is when they would say “I love you.”
+CMS
+“Content Management System.” The program that you use to create and maintain your website’s content. These are usually designed for non-developers for ease-of-use. Our personal favorite at Whole Whale is WordPress.
+    
+Conversion.
+The goals you have for RGS (really good stuff) happening on your website, such as donations, email signups, and downloads. If your user and your website were in a relationship, this is when they would say “I love you.”
     
 Cookies
     The source of all that is good, chocolatey, and sugary in the world… Kidding. (Sort of.) This is the data sent by an Internet server to a browser. Each time the browser accesses the same server, it sends the data back as a means of tracking how (and how often) it accesses the server. This is why your home computer always knows your Netflix login.
