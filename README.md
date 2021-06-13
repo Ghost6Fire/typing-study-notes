@@ -30,7 +30,7 @@ Classes
     In other programming languages, classes are a bit more broadly used as the blueprint for creating something — similar to using the blueprint of an existing car to create a new type of car.
     
 CMS
-“Content Management System.” The program that you use to create and maintain your website’s content. These are usually designed for non-developers for ease-of-use. Our personal favorite at Whole Whale is WordPress.
+“Content Management System.” The program that you use to create and maintain your website’s content. These are usually designed for non-developers for ease-of-use. Our personal favorite at Whole Whale is WordPress
     
 Conversion.
 The goals you have for RGS (really good stuff) happening on your website, such as donations, email signups, and downloads. If your user and your website were in a relationship, this is when they would say “I love you.”
