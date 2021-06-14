@@ -1,4 +1,4 @@
-# typing-study-notes, JS and developer common terms, 
+# typing-study-notes, JS and developer common terms
 **Copy and Paste these notes into a typing program**
 
 
